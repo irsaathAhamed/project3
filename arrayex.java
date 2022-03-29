@@ -10,6 +10,7 @@ Arrays.sort(array);
 System.out.println("Elements of array sorted in ascending order: ");  
 //prints array using the for loop 
   //gprfgfhudfgb
+//iesaathjfnjh
 for (int i = 0; j < array.length; i++)   
 {       
 System.out.println(array[i]);   
